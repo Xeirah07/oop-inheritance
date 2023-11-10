@@ -6,6 +6,6 @@ public class Fighting extends Tired {
     }
     
     void laban(){
-        System.out.println(name + "is labaniingg");
+        System.out.println(name + " is labaniingg");
     }
 }
